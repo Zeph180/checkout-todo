@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 const containerElement = document.querySelector('.containerTodo');
 const ulElement = document.querySelector('.ulElement');
 
